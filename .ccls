@@ -1,0 +1,9 @@
+clang
+-std=c99
+-nostdinc
+-D__fastcall__=__fastcall
+-D__CC65_STD__=3
+-D__CC65_STD_CC65__=1
+-D__CC65_STD_C89__=2
+-D__CC65_STD_C99__=3
+-isystem/home/runner/include
