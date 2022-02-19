@@ -1,0 +1,15 @@
+run = "make run"
+entrypoint = "README.md"
+compile = "make disks"
+
+[languages.c]
+pattern = "**/*.{c,h}"
+
+[languages.c.languageServer]
+start = "bash .setup/clsp.sh && ccls"
+
+[languages.basic]
+pattern = "**/*.bas"
+
+[languages.assembly]
+pattern = "**/*.s"
