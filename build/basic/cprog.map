@@ -1,0 +1,439 @@
+Modules list:
+-------------
+cprog.c.o:
+    CODE              Offs=000000  Size=000018  Align=00001  Fill=0000
+    RODATA            Offs=000000  Size=000013  Align=00001  Fill=0000
+/nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/lib/c64.lib(_directerrno.o):
+    CODE              Offs=000018  Size=00000A  Align=00001  Fill=0000
+/nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/lib/c64.lib(_file.o):
+    DATA              Offs=000000  Size=00001E  Align=00001  Fill=0000
+/nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/lib/c64.lib(_hextab.o):
+    RODATA            Offs=000013  Size=000010  Align=00001  Fill=0000
+/nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/lib/c64.lib(_longminstr.o):
+    RODATA            Offs=000023  Size=00000C  Align=00001  Fill=0000
+/nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/lib/c64.lib(_mappederrno.o):
+    CODE              Offs=000022  Size=000010  Align=00001  Fill=0000
+/nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/lib/c64.lib(_oserror.o):
+    BSS               Offs=000000  Size=000001  Align=00001  Fill=0000
+/nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/lib/c64.lib(_printf.o):
+    CODE              Offs=000032  Size=0003A5  Align=00001  Fill=0000
+    BSS               Offs=000001  Size=00002B  Align=00001  Fill=0000
+    DATA              Offs=00001E  Size=000003  Align=00001  Fill=0000
+/nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/lib/c64.lib(_seterrno.o):
+    CODE              Offs=0003D7  Size=000009  Align=00001  Fill=0000
+/nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/lib/c64.lib(addysp.o):
+    CODE              Offs=0003E0  Size=00000E  Align=00001  Fill=0000
+/nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/lib/c64.lib(axlong.o):
+    CODE              Offs=0003EE  Size=00000D  Align=00001  Fill=0000
+/nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/lib/c64.lib(callmain.o):
+    CODE              Offs=0003FB  Size=000017  Align=00001  Fill=0000
+    DATA              Offs=000021  Size=000004  Align=00001  Fill=0000
+/nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/lib/c64.lib(condes.o):
+    CODE              Offs=000412  Size=00000C  Align=00001  Fill=0000
+    DATA              Offs=000025  Size=000025  Align=00001  Fill=0000
+    ONCE              Offs=000000  Size=00000C  Align=00001  Fill=0000
+/nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/lib/c64.lib(crt0.o):
+    STARTUP           Offs=000000  Size=000033  Align=00001  Fill=0000
+    ONCE              Offs=00000C  Size=00001A  Align=00001  Fill=0000
+    INIT              Offs=000000  Size=00001C  Align=00001  Fill=0000
+/nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/lib/c64.lib(ctype.o):
+    RODATA            Offs=00002F  Size=00008B  Align=00001  Fill=0000
+/nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/lib/c64.lib(ctypemask.o):
+    CODE              Offs=00041E  Size=00001E  Align=00001  Fill=0000
+/nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/lib/c64.lib(decsp4.o):
+    CODE              Offs=00043C  Size=00000D  Align=00001  Fill=0000
+/nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/lib/c64.lib(decsp6.o):
+    CODE              Offs=000449  Size=00000D  Align=00001  Fill=0000
+/nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/lib/c64.lib(errno.o):
+    BSS               Offs=00002C  Size=000002  Align=00001  Fill=0000
+/nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/lib/c64.lib(exehdr.o):
+    EXEHDR            Offs=000000  Size=00000C  Align=00001  Fill=0000
+/nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/lib/c64.lib(filedes.o):
+    CODE              Offs=000456  Size=00000E  Align=00001  Fill=0000
+    DATA              Offs=00004A  Size=000010  Align=00001  Fill=0000
+/nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/lib/c64.lib(fwrite.o):
+    CODE              Offs=000464  Size=00007B  Align=00001  Fill=0000
+    BSS               Offs=00002E  Size=000002  Align=00001  Fill=0000
+/nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/lib/c64.lib(incsp2.o):
+    CODE              Offs=0004DF  Size=000016  Align=00001  Fill=0000
+/nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/lib/c64.lib(incsp6.o):
+    CODE              Offs=0004F5  Size=000005  Align=00001  Fill=0000
+/nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/lib/c64.lib(kernal.o):
+/nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/lib/c64.lib(ldaxsp.o):
+    CODE              Offs=0004FA  Size=000009  Align=00001  Fill=0000
+/nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/lib/c64.lib(lneg.o):
+    CODE              Offs=000503  Size=00001E  Align=00001  Fill=0000
+/nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/lib/c64.lib(loadaddr.o):
+    LOADADDR          Offs=000000  Size=000002  Align=00001  Fill=0000
+/nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/lib/c64.lib(lpush.o):
+    CODE              Offs=000521  Size=000021  Align=00001  Fill=0000
+/nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/lib/c64.lib(ltoa.o):
+    CODE              Offs=000542  Size=000095  Align=00001  Fill=0000
+/nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/lib/c64.lib(mul.o):
+    CODE              Offs=0005D7  Size=000045  Align=00001  Fill=0000
+/nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/lib/c64.lib(mul8.o):
+    CODE              Offs=00061C  Size=00003A  Align=00001  Fill=0000
+/nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/lib/c64.lib(oserror.o):
+    CODE              Offs=000656  Size=000016  Align=00001  Fill=0000
+    RODATA            Offs=0000BA  Size=00005A  Align=00001  Fill=0000
+/nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/lib/c64.lib(popptr1.o):
+    CODE              Offs=00066C  Size=00000E  Align=00001  Fill=0000
+/nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/lib/c64.lib(printf.o):
+    CODE              Offs=00067A  Size=000033  Align=00001  Fill=0000
+    BSS               Offs=000030  Size=000001  Align=00001  Fill=0000
+/nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/lib/c64.lib(push1.o):
+    CODE              Offs=0006AD  Size=000005  Align=00001  Fill=0000
+/nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/lib/c64.lib(pushax.o):
+    CODE              Offs=0006B2  Size=00001A  Align=00001  Fill=0000
+/nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/lib/c64.lib(pushwsp.o):
+    CODE              Offs=0006CC  Size=00001C  Align=00001  Fill=0000
+/nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/lib/c64.lib(rwcommon.o):
+    CODE              Offs=0006E8  Size=00001C  Align=00001  Fill=0000
+/nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/lib/c64.lib(status.o):
+/nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/lib/c64.lib(strlen.o):
+    CODE              Offs=000704  Size=000016  Align=00001  Fill=0000
+/nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/lib/c64.lib(strlower.o):
+    CODE              Offs=00071A  Size=000027  Align=00001  Fill=0000
+/nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/lib/c64.lib(udiv.o):
+    CODE              Offs=000741  Size=00004F  Align=00001  Fill=0000
+/nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/lib/c64.lib(vfprintf.o):
+    CODE              Offs=000790  Size=000061  Align=00001  Fill=0000
+    DATA              Offs=00005A  Size=000008  Align=00001  Fill=0000
+/nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/lib/c64.lib(write.o):
+    CODE              Offs=0007F1  Size=000054  Align=00001  Fill=0000
+    ONCE              Offs=000026  Size=000011  Align=00001  Fill=0000
+/nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/lib/c64.lib(zerobss.o):
+    CODE              Offs=000845  Size=000023  Align=00001  Fill=0000
+/nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/lib/c64.lib(zeropage.o):
+    ZEROPAGE          Offs=000000  Size=00001A  Align=00001  Fill=0000
+
+
+Segment list:
+-------------
+Name                   Start     End    Size  Align
+----------------------------------------------------
+ZEROPAGE              000002  00001B  00001A  00001
+LOADADDR              0007FF  000800  000002  00001
+EXEHDR                000801  00080C  00000C  00001
+STARTUP               00080D  00083F  000033  00001
+CODE                  000840  0010A7  000868  00001
+RODATA                0010A8  0011BB  000114  00001
+DATA                  0011BC  00121D  000062  00001
+INIT                  00121E  001239  00001C  00001
+BSS                   00123A  00126A  000031  00001
+ONCE                  00123A  001272  000039  00001
+
+
+Exports list by name:
+---------------------
+BSOUT                     00FFD2 RLA    CKOUT                     00FFC9 RLA    
+CLRCH                     00FFCC RLA    OPEN                      00FFC0 RLA    
+READST                    00FFB7 RLA    SETLFS                    00FFBA RLA    
+ST                        000090 RLZ    __BSS_RUN__               00123A RLA    
+__BSS_SIZE__              000031 REA    __CONSTRUCTOR_COUNT__     000001 REA    
+__CONSTRUCTOR_TABLE__     001271 RLA    __DESTRUCTOR_COUNT__      000000 REA    
+__DESTRUCTOR_TABLE__      0011BC RLA    __EXEHDR__                000001 REA    
+__HEADER_LAST__           00080D RLA    __HIMEM__                 00D000 REA    
+__LOADADDR__              000001 REA    __MAIN_SIZE__             00C7F3 REA    
+__MAIN_START__            00080D RLA    __ONCE_RUN__              00123A RLA    
+__STACKSIZE__             000800 REA    __STARTUP__               000001 REA    
+__ctype                   0010D7 RLA    __ctypeidx                0010E2 RLA    
+__directerrno             000858 RLA    __errno                   001266 RLA    
+__hextab                  0010BB RLA    __longminstr              0010CB RLA    
+__mappederrno             000862 RLA    __oserror                 00123A RLA    
+__osmaperrno              000E96 RLA    __printf                  000965 RLA    
+__seterrno                000C17 RLA    _fwrite                   000CA4 RLA    
+_ltoa                     000D9A RLA    _main                     000840 RLA    
+_printf                   000EBA RLA    _stdout                   0011D6 RLA    
+_strlen                   000F44 RLA    _strlower                 000F5A RLA    
+_ultoa                    000DDB RLA    _vfprintf                 001008 RLA    
+_write                    001031 RLA    addysp                    000C21 RLA    
+axlong                    000C2E RLA    axulong                   000C34 RLA    
+callmain                  000C3B RLA    ctypemaskdirect           000C62 RLA    
+decsp4                    000C7C RLA    decsp6                    000C89 RLA    
+donelib                   000C52 RLA    fdtab                     001206 RLA    
+incsp2                    000D27 RLA    incsp6                    000D35 RLA    
+initlib                   00123A RLA    initstdout                001260  LAI   
+ldaxysp                   000D3C RLA    mul8x16                   000E5E RLA    
+mul8x16a                  000E68 RLA    negeax                    000D43 RLA    
+popax                     000D1F RLA    popptr1                   000EAC RLA    
+ptr1                      00000A RLZ    ptr2                      00000C RLZ    
+ptr3                      00000E RLZ    ptr4                      000010 RLZ    
+push1                     000EED RLA    pusha0                    000EF4 RLA    
+pushax                    000EF6 RLA    pusheax                   000D6A RLA    
+pushwysp                  000F0E RLA    regbank                   000016 RLZ    
+rwcommon                  000F28 RLA    sp                        000002 RLZ    
+sreg                      000004 RLZ    tmp1                      000012 RLZ    
+tmp2                      000013 RLZ    tosudivax                 000F83 RLA    
+tosumulax                 000E17 RLA    zerobss                   001085 RLA    
+
+
+
+Exports list by value:
+----------------------
+__DESTRUCTOR_COUNT__      000000 REA    __CONSTRUCTOR_COUNT__     000001 REA    
+__EXEHDR__                000001 REA    __LOADADDR__              000001 REA    
+__STARTUP__               000001 REA    sp                        000002 RLZ    
+sreg                      000004 RLZ    ptr1                      00000A RLZ    
+ptr2                      00000C RLZ    ptr3                      00000E RLZ    
+ptr4                      000010 RLZ    tmp1                      000012 RLZ    
+tmp2                      000013 RLZ    regbank                   000016 RLZ    
+__BSS_SIZE__              000031 REA    ST                        000090 RLZ    
+__STACKSIZE__             000800 REA    __HEADER_LAST__           00080D RLA    
+__MAIN_START__            00080D RLA    _main                     000840 RLA    
+__directerrno             000858 RLA    __mappederrno             000862 RLA    
+__printf                  000965 RLA    __seterrno                000C17 RLA    
+addysp                    000C21 RLA    axlong                    000C2E RLA    
+axulong                   000C34 RLA    callmain                  000C3B RLA    
+donelib                   000C52 RLA    ctypemaskdirect           000C62 RLA    
+decsp4                    000C7C RLA    decsp6                    000C89 RLA    
+_fwrite                   000CA4 RLA    popax                     000D1F RLA    
+incsp2                    000D27 RLA    incsp6                    000D35 RLA    
+ldaxysp                   000D3C RLA    negeax                    000D43 RLA    
+pusheax                   000D6A RLA    _ltoa                     000D9A RLA    
+_ultoa                    000DDB RLA    tosumulax                 000E17 RLA    
+mul8x16                   000E5E RLA    mul8x16a                  000E68 RLA    
+__osmaperrno              000E96 RLA    popptr1                   000EAC RLA    
+_printf                   000EBA RLA    push1                     000EED RLA    
+pusha0                    000EF4 RLA    pushax                    000EF6 RLA    
+pushwysp                  000F0E RLA    rwcommon                  000F28 RLA    
+_strlen                   000F44 RLA    _strlower                 000F5A RLA    
+tosudivax                 000F83 RLA    _vfprintf                 001008 RLA    
+_write                    001031 RLA    zerobss                   001085 RLA    
+__hextab                  0010BB RLA    __longminstr              0010CB RLA    
+__ctype                   0010D7 RLA    __ctypeidx                0010E2 RLA    
+__DESTRUCTOR_TABLE__      0011BC RLA    _stdout                   0011D6 RLA    
+fdtab                     001206 RLA    __BSS_RUN__               00123A RLA    
+__ONCE_RUN__              00123A RLA    __oserror                 00123A RLA    
+initlib                   00123A RLA    initstdout                001260  LAI   
+__errno                   001266 RLA    __CONSTRUCTOR_TABLE__     001271 RLA    
+__MAIN_SIZE__             00C7F3 REA    __HIMEM__                 00D000 REA    
+READST                    00FFB7 RLA    SETLFS                    00FFBA RLA    
+OPEN                      00FFC0 RLA    CKOUT                     00FFC9 RLA    
+CLRCH                     00FFCC RLA    BSOUT                     00FFD2 RLA    
+
+
+
+Imports list:
+-------------
+BSOUT (kernal.o):
+    write.o                   cbm/cbm.inc(49)
+    crt0.o                    c64/crt0.s(10)
+CKOUT (kernal.o):
+    write.o                   cbm/cbm.inc(45)
+CLRCH (kernal.o):
+    write.o                   cbm/cbm.inc(46)
+OPEN (kernal.o):
+    write.o                   cbm/cbm.inc(35)
+READST (kernal.o):
+    write.o                   cbm/cbm.inc(32)
+SETLFS (kernal.o):
+    write.o                   cbm/cbm.inc(33)
+ST (status.o):
+    crt0.o                    c64/crt0.s(13)
+__BSS_RUN__ ([linker generated]):
+    zerobss.o                 common/zerobss.s(8)
+__BSS_SIZE__ ([linker generated]):
+    zerobss.o                 common/zerobss.s(8)
+__CONSTRUCTOR_COUNT__ ([linker generated]):
+    condes.o                  runtime/condes.s(18)
+__CONSTRUCTOR_TABLE__ ([linker generated]):
+    condes.o                  runtime/condes.s(18)
+__DESTRUCTOR_COUNT__ ([linker generated]):
+    condes.o                  runtime/condes.s(19)
+__DESTRUCTOR_TABLE__ ([linker generated]):
+    condes.o                  runtime/condes.s(19)
+__EXEHDR__ (exehdr.o):
+    [linker generated]        /nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/cfg/c64.cfg(6)
+__HEADER_LAST__ ([linker generated]):
+    [linker generated]        /nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/cfg/c64.cfg(14)
+    [linker generated]        /nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/cfg/c64.cfg(14)
+__HIMEM__ ([linker generated]):
+    [linker generated]        /nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/cfg/c64.cfg(15)
+    [linker generated]        /nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/cfg/c64.cfg(14)
+__LOADADDR__ (loadaddr.o):
+    [linker generated]        /nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/cfg/c64.cfg(5)
+__MAIN_SIZE__ ([linker generated]):
+    crt0.o                    c64/crt0.s(11)
+__MAIN_START__ ([linker generated]):
+    crt0.o                    c64/crt0.s(11)
+__ONCE_RUN__ ([linker generated]):
+    [linker generated]        /nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/cfg/c64.cfg(15)
+    [linker generated]        /nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/cfg/c64.cfg(15)
+__STACKSIZE__ ([linker generated]):
+    [linker generated]        /nix/store/gs8jnmmymj7vzm9855adkfr1hzwfxdi9-cc65-2.19/share/cc65/cfg/c64.cfg(15)
+__STARTUP__ (crt0.o):
+    cprog.c.o                 src/c/cprog.s(13)
+__ctype (ctype.o):
+    ctypemask.o               common/ctypemask.s(23)
+__ctypeidx (ctype.o):
+    ctypemask.o               common/ctypemask.s(24)
+__directerrno (_directerrno.o):
+    write.o                   /build/source/asminc/errno.inc(10)
+__errno (errno.o):
+    _seterrno.o               /build/source/asminc/errno.inc(7)
+__hextab (_hextab.o):
+    ltoa.o                    common/ltoa.s(10)
+__longminstr (_longminstr.o):
+    ltoa.o                    common/ltoa.s(10)
+__mappederrno (_mappederrno.o):
+    write.o                   /build/source/asminc/errno.inc(10)
+__oserror (_oserror.o):
+    _mappederrno.o            /build/source/asminc/errno.inc(7)
+    _directerrno.o            /build/source/asminc/errno.inc(7)
+    write.o                   /build/source/asminc/errno.inc(7)
+__osmaperrno (oserror.o):
+    _mappederrno.o            /build/source/asminc/errno.inc(8)
+__printf (_printf.o):
+    vfprintf.o                common/vfprintf.s(10)
+__seterrno (_seterrno.o):
+    _mappederrno.o            /build/source/asminc/errno.inc(9)
+    _directerrno.o            /build/source/asminc/errno.inc(9)
+    fwrite.o                  /build/source/asminc/errno.inc(9)
+_fwrite (fwrite.o):
+    vfprintf.o                common/vfprintf.s(10)
+_ltoa (ltoa.o):
+    _printf.o                 common/_printf.s(12)
+_main (cprog.c.o):
+    callmain.o                runtime/callmain.s(11)
+_printf (printf.o):
+    cprog.c.o                 src/c/cprog.s(14)
+_stdout (_file.o):
+    printf.o                  common/printf.s(8)
+_strlen (strlen.o):
+    _printf.o                 common/_printf.s(13)
+_strlower (strlower.o):
+    _printf.o                 common/_printf.s(13)
+_ultoa (ltoa.o):
+    _printf.o                 common/_printf.s(12)
+_vfprintf (vfprintf.o):
+    printf.o                  common/printf.s(8)
+_write (write.o):
+    fwrite.o                  common/fwrite.s(10)
+addysp (addysp.o):
+    incsp6.o                  runtime/incsp6.s(8)
+    fwrite.o                  common/fwrite.s(11)
+    printf.o                  common/printf.s(8)
+axlong (axlong.o):
+    _printf.o                 common/_printf.s(11)
+axulong (axlong.o):
+    _printf.o                 common/_printf.s(11)
+callmain (callmain.o):
+    crt0.o                    c64/crt0.s(9)
+ctypemaskdirect (ctypemask.o):
+    strlower.o                common/strlower.s(14)
+decsp4 (decsp4.o):
+    lpush.o                   runtime/lpush.s(12)
+decsp6 (decsp6.o):
+    _printf.o                 common/_printf.s(11)
+donelib (condes.o):
+    crt0.o                    c64/crt0.s(8)
+fdtab (filedes.o):
+    write.o                   cbm/filedes.inc(7)
+incsp2 (incsp2.o):
+    popptr1.o                 runtime/popptr1.s(8)
+incsp6 (incsp6.o):
+    fwrite.o                  common/fwrite.s(11)
+    vfprintf.o                common/vfprintf.s(9)
+initlib (condes.o):
+    crt0.o                    c64/crt0.s(8)
+ldaxysp (ldaxsp.o):
+    fwrite.o                  common/fwrite.s(11)
+mul8x16 (mul8.o):
+    mul.o                     runtime/mul.s(8)
+mul8x16a (mul8.o):
+    mul.o                     runtime/mul.s(8)
+negeax (lneg.o):
+    ltoa.o                    common/ltoa.s(9)
+popax (incsp2.o):
+    rwcommon.o                cbm/rwcommon.s(9)
+    ltoa.o                    common/ltoa.s(9)
+    _printf.o                 common/_printf.s(11)
+popptr1 (popptr1.o):
+    rwcommon.o                cbm/rwcommon.s(9)
+    udiv.o                    runtime/udiv.s(9)
+    mul8.o                    runtime/mul8.s(9)
+    mul.o                     runtime/mul.s(9)
+    ltoa.o                    common/ltoa.s(9)
+ptr1 (zeropage.o):
+    write.o                   cbm/write.s(11)
+    udiv.o                    runtime/udiv.s(10)
+    strlower.o                common/strlower.s(13)
+    popptr1.o                 runtime/popptr1.s(9)
+    mul8.o                    runtime/mul8.s(10)
+    mul.o                     runtime/mul.s(10)
+    ltoa.o                    common/ltoa.s(11)
+    fwrite.o                  common/fwrite.s(14)
+    _printf.o                 /build/source/asminc/zeropage.inc(12)
+    zerobss.o                 common/zerobss.s(9)
+    vfprintf.o                common/vfprintf.s(11)
+    printf.o                  common/printf.s(9)
+ptr2 (zeropage.o):
+    rwcommon.o                cbm/rwcommon.s(10)
+    write.o                   cbm/write.s(11)
+    strlower.o                common/strlower.s(13)
+    strlen.o                  common/strlen.s(12)
+    ltoa.o                    common/ltoa.s(11)
+    _printf.o                 /build/source/asminc/zeropage.inc(12)
+ptr3 (zeropage.o):
+    rwcommon.o                cbm/rwcommon.s(10)
+    write.o                   cbm/write.s(11)
+    ltoa.o                    common/ltoa.s(11)
+ptr4 (zeropage.o):
+    udiv.o                    runtime/udiv.s(10)
+    mul8.o                    runtime/mul8.s(10)
+    mul.o                     runtime/mul.s(10)
+push1 (push1.o):
+    _printf.o                 common/_printf.s(11)
+    vfprintf.o                common/vfprintf.s(9)
+pusha0 (pushax.o):
+    push1.o                   runtime/push1.s(8)
+pushax (pushax.o):
+    fwrite.o                  common/fwrite.s(11)
+    callmain.o                runtime/callmain.s(11)
+    _printf.o                 common/_printf.s(11)
+    printf.o                  common/printf.s(8)
+    cprog.c.o                 src/c/cprog.s(46)
+pusheax (lpush.o):
+    _printf.o                 common/_printf.s(11)
+pushwysp (pushwsp.o):
+    fwrite.o                  common/fwrite.s(11)
+    vfprintf.o                common/vfprintf.s(9)
+regbank (zeropage.o):
+    _printf.o                 /build/source/asminc/zeropage.inc(14)
+rwcommon (rwcommon.o):
+    write.o                   cbm/write.s(10)
+sp (zeropage.o):
+    decsp4.o                  runtime/decsp4.s(8)
+    pushwsp.o                 runtime/pushwsp.s(8)
+    popptr1.o                 runtime/popptr1.s(9)
+    lpush.o                   runtime/lpush.s(13)
+    ldaxsp.o                  runtime/ldaxsp.s(8)
+    incsp2.o                  runtime/incsp2.s(8)
+    decsp6.o                  runtime/decsp6.s(8)
+    addysp.o                  runtime/addysp.s(8)
+    _printf.o                 /build/source/asminc/zeropage.inc(11)
+    vfprintf.o                common/vfprintf.s(11)
+    pushax.o                  runtime/pushax.s(8)
+    printf.o                  common/printf.s(9)
+    crt0.o                    /build/source/asminc/zeropage.inc(11)
+sreg (zeropage.o):
+    lneg.o                    runtime/lneg.s(11)
+    udiv.o                    runtime/udiv.s(10)
+    ltoa.o                    common/ltoa.s(11)
+    lpush.o                   runtime/lpush.s(13)
+    axlong.o                  runtime/axlong.s(9)
+    _printf.o                 /build/source/asminc/zeropage.inc(11)
+tmp1 (zeropage.o):
+    mul.o                     runtime/mul.s(10)
+    ltoa.o                    common/ltoa.s(11)
+    _printf.o                 /build/source/asminc/zeropage.inc(13)
+tmp2 (zeropage.o):
+    rwcommon.o                cbm/rwcommon.s(10)
+tosudivax (udiv.o):
+    fwrite.o                  common/fwrite.s(12)
+tosumulax (mul.o):
+    fwrite.o                  common/fwrite.s(12)
+zerobss (zerobss.o):
+    crt0.o                    c64/crt0.s(9)
+
